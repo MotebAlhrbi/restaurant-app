@@ -1,0 +1,32 @@
+a{
+
+color: antiquewhite;
+text-decoration: none;
+
+}
+
+a:hover{
+
+  color: rgb(114, 112, 112);
+}
+
+.App {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  padding: 0px;
+  margin: 0px;
+}
+
+
+
+.color {
+
+  color: azure;
+}
+

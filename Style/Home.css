@@ -1,0 +1,74 @@
+#rice {
+
+    position:relative;
+    top: 5px;
+    right: 5px;
+    width: 340px;
+    animation-name: rice;
+    animation-duration: 2s;
+
+
+}
+
+.Header{
+
+    padding:135px;
+
+
+
+
+}
+
+
+#best {
+    animation-name: be;
+    animation-duration: 2s;
+
+}
+
+
+
+@keyframes rice {
+
+
+    from{
+
+        top: 0px;
+        right: 180px;
+    }
+
+
+
+    to{
+
+
+        right: 5px;
+
+    }
+
+}
+
+
+
+@keyframes be {
+
+
+    from{
+
+
+        left: 0px;
+    }
+
+
+
+    to{
+
+      top: 280x;
+        right:10px;
+
+    }
+
+}
+
+
+

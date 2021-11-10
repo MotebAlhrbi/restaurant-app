@@ -1,0 +1,29 @@
+#menu {
+
+    animation-name: me;
+    animation-duration: 2s;
+
+}
+
+
+@keyframes me {
+
+
+    from{
+
+        right: 300px;
+    }
+
+
+
+    to{
+
+
+        right: 0px;
+
+    }
+
+}
+
+
+
